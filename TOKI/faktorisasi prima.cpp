@@ -47,7 +47,7 @@ void primefactor(int x){
         }
     }
     printf("\n");
-}
+ }
 
 int main(){
     int N;
